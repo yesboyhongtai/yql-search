@@ -10,7 +10,7 @@
   <bindings>
     <select itemPath="root.station" produces="XML">
       <urls>
-        <url>https://raw.github.com/yesboyhongtai/yql-search/master/bart_eta.xml</url>
+        <url>http://www.bart.gov/dev/eta/bart_eta.xml</url>
       </urls>
     </select>
   </bindings>
