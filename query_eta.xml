@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<root>
+<channel>
+<title>BART Real Time ETA Feed</title>
+<link>http://www.bart.gov/schedules/developers/etas.aspx</link>
+<description>
+Real time estimated arrivals for Bay Area Rapid Transit. Use subject to terms at http://www.bart.gov/dev/schedules/license.htm
+</description>
+<copyright>
+Copyright (C) 2013 San Francisco Bay Area Rapid Transit District. All rights reserved.
+</copyright>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+</channel>
+<station>
+  <keyword>Beyonc</keyword>
+	<state_id>1</state_id>
+	<city_id>1001</city_id>
+	<rate>9700</rate>
+	<time>31</time>
+</station>
+<station>
+	<keyword>Beyonc</keyword>
+	<state_id>1</state_id>
+	<city_id>1001</city_id>
+	<rate>9700</rate>
+	<time>31</time>
+</station>
+<station>
+	<keyword>Beyonc</keyword>
+	<state_id>1</state_id>
+	<city_id>1001</city_id>
+	<rate>9700</rate>
+	<time>31</time>
+</station>
+<station>
+	<keyword>Beyonc</keyword>
+	<state_id>1</state_id>
+	<city_id>1001</city_id>
+	<rate>9700</rate>
+	<time>31</time>
+</station>
+<station>
+	<keyword>Beyonc</keyword>
+	<state_id>1</state_id>
+	<city_id>1001</city_id>
+	<rate>9700</rate>
+	<time>31</time>
+</station>
+</root>
