@@ -1,0 +1,882 @@
+<root>
+<channel>
+<title>BART Real Time ETA Feed</title>
+<link>http://www.bart.gov/schedules/developers/etas.aspx</link>
+<description>
+Real time estimated arrivals for Bay Area Rapid Transit. Use subject to terms at http://www.bart.gov/dev/schedules/license.htm
+</description>
+<copyright>
+Copyright (C) 2013 San Francisco Bay Area Rapid Transit District. All rights reserved.
+</copyright>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+</channel>
+<station>
+<name>Lake Merritt</name>
+<abbr>LAKE</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>5 min, 15 min, 25 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>12 min, 31 min, 51 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>17 min, 20 min, 37 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>20 min, 39 min, 59 min</estimate>
+</eta>
+</station>
+<station>
+<name>Fruitvale</name>
+<abbr>FTVL</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>Leaving, 11 min, 21 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>15 min, 35 min, 55 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>1 min, 21 min, 23 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>15 min, 35 min, 55 min</estimate>
+</eta>
+</station>
+<station>
+<name>Coliseum/Oakland Airport</name>
+<abbr>COLS</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>8 min, 18 min, 27 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>18 min, 38 min, 58 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>4 min, 24 min, 27 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>12 min, 32 min, 51 min</estimate>
+</eta>
+</station>
+<station>
+<name>San Leandro</name>
+<abbr>SANL</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>4 min, 14 min, 22 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>2 min, 22 min, 42 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>8 min, 28 min, 31 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>8 min, 27 min, 47 min</estimate>
+</eta>
+</station>
+<station>
+<name>Bay Fair</name>
+<abbr>BAYF</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>10 min, 19 min, 30 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>6 min, 26 min, 46 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>12 min, 31 min, 34 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>5 min, 24 min, 44 min</estimate>
+</eta>
+</station>
+<station>
+<name>Hayward</name>
+<abbr>HAYW</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>15 min, 35 min, 55 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>16 min, 35 min, 38 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>20 min, 40 min</estimate>
+</eta>
+</station>
+<station>
+<name>South Hayward</name>
+<abbr>SHAY</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>11 min, 31 min, 51 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>20 min, 39 min, 42 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>16 min, 36 min</estimate>
+</eta>
+</station>
+<station>
+<name>Union City</name>
+<abbr>UCTY</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>5 min, 25 min, 45 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>4 min, 25 min, 45 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>10 min, 30 min</estimate>
+</eta>
+</station>
+<station>
+<name>Fremont</name>
+<abbr>FRMT</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>Leaving, 21 min, 41 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>Leaving, 26 min</estimate>
+</eta>
+</station>
+<station>
+<name>Rockridge</name>
+<abbr>ROCK</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>12 min, 31 min, 51 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>3 min, 24 min, 42 min</estimate>
+</eta>
+</station>
+<station>
+<name>Orinda</name>
+<abbr>ORIN</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>17 min, 37 min, 57 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>18 min, 37 min, 57 min</estimate>
+</eta>
+</station>
+<station>
+<name>Lafayette</name>
+<abbr>LAFY</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>2 min, 22 min, 42 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>14 min, 32 min, 52 min</estimate>
+</eta>
+</station>
+<station>
+<name>Walnut Creek</name>
+<abbr>WCRK</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>6 min, 26 min, 46 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>10 min, 27 min, 47 min</estimate>
+</eta>
+</station>
+<station>
+<name>Pleasant Hill/Contra Costa Centre</name>
+<abbr>PHIL</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>9 min, 30 min, 49 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>6 min, 24 min, 44 min</estimate>
+</eta>
+</station>
+<station>
+<name>Concord</name>
+<abbr>CONC</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>14 min, 35 min, 54 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>Leaving, 19 min, 39 min</estimate>
+</eta>
+</station>
+<station>
+<name>North Concord/Martinez</name>
+<abbr>NCON</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>18 min, 38 min, 58 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>15 min, 35 min</estimate>
+</eta>
+</station>
+<station>
+<name>Pittsburg/Bay Point</name>
+<abbr>PITT</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>7 min, 27 min</estimate>
+</eta>
+</station>
+<station>
+<name>12th St. Oakland City Center</name>
+<abbr>12TH</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>2 min, 22 min, 42 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>14 min, 34 min, 54 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>4 min, 22 min, 44 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>2 min, 15 min, 22 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>12 min, 32 min, 52 min</estimate>
+</eta>
+</station>
+<station>
+<name>19th St. Oakland</name>
+<abbr>19TH</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>Leaving, 20 min, 40 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>12 min, 32 min, 52 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>6 min, 25 min, 46 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>5 min, 16 min, 25 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>10 min, 30 min, 50 min</estimate>
+</eta>
+</station>
+<station>
+<name>MacArthur</name>
+<abbr>MCAR</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>17 min, 36 min, 56 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>9 min, 29 min, 49 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>9 min, 29 min, 49 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>9 min, 20 min, 29 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>7 min, 27 min, 47 min</estimate>
+</eta>
+</station>
+<station>
+<name>Castro Valley</name>
+<abbr>CAST</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>6 min, 26 min, 46 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>10 min, 30 min, 50 min</estimate>
+</eta>
+</station>
+<station>
+<name>West Dublin/Pleasanton</name>
+<abbr>WDUB</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>16 min, 36 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>20 min, 40 min, 60 min</estimate>
+</eta>
+</station>
+<station>
+<name>Dublin/Pleasanton</name>
+<abbr>DUBL</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>10 min, 30 min</estimate>
+</eta>
+</station>
+<station>
+<name>West Oakland</name>
+<abbr>WOAK</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>Leaving, 6 min, 11 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>6 min, 26 min, 46 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>14 min, 36 min, 54 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>Leaving, 18 min, 40 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>10 min, 30 min, 50 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>16 min, 36 min, 56 min</estimate>
+</eta>
+</station>
+<station>
+<name>Embarcadero</name>
+<abbr>EMBR</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>7 min, 13 min, 18 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>19 min, 39 min, 59 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>8 min, 30 min, 48 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>12 min, 33 min, 52 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>4 min, 24 min, 44 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>3 min, 24 min, 44 min</estimate>
+</eta>
+</station>
+<station>
+<name>Montgomery St.</name>
+<abbr>MONT</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>Leaving, 9 min, 15 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>18 min, 38 min, 58 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>6 min, 28 min, 46 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>10 min, 32 min, 50 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>2 min, 22 min, 42 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>5 min, 25 min, 45 min</estimate>
+</eta>
+</station>
+<station>
+<name>Powell St.</name>
+<abbr>POWL</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>1 min, 10 min, 16 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>16 min, 36 min, 56 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>5 min, 27 min, 44 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>9 min, 30 min, 48 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>Leaving, 20 min, 40 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>7 min, 26 min, 46 min</estimate>
+</eta>
+</station>
+<station>
+<name>Civic Center/UN Plaza</name>
+<abbr>CIVC</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>Leaving, 2 min, 12 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>14 min, 34 min, 54 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>3 min, 25 min, 43 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>7 min, 28 min, 47 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>19 min, 39 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>8 min, 28 min, 48 min</estimate>
+</eta>
+</station>
+<station>
+<name>16th St. Mission</name>
+<abbr>16TH</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>Leaving, 2 min, 5 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>12 min, 32 min, 52 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>Leaving, 23 min, 40 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>5 min, 26 min, 45 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>16 min, 36 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>10 min, 30 min, 51 min</estimate>
+</eta>
+</station>
+<station>
+<name>24th St. Mission</name>
+<abbr>24TH</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>3 min, 4 min, 7 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>10 min, 30 min, 50 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>21 min, 38 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>3 min, 24 min, 43 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>14 min, 34 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>12 min, 32 min, 53 min</estimate>
+</eta>
+</station>
+<station>
+<name>Glen Park</name>
+<abbr>GLEN</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>6 min, 7 min, 10 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>7 min, 27 min, 47 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>18 min, 36 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>Leaving, 21 min, 40 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>12 min, 32 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>Leaving, 15 min, 35 min</estimate>
+</eta>
+</station>
+<station>
+<name>Balboa Park</name>
+<abbr>BALB</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>8 min, 10 min, 12 min</estimate>
+</eta>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>5 min, 25 min, 45 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>15 min, 33 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>19 min, 38 min, 58 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>9 min, 29 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>3 min, 17 min, 37 min</estimate>
+</eta>
+</station>
+<station>
+<name>Daly City</name>
+<abbr>DALY</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Dublin/Pleasanton</destination>
+<estimate>Leaving, 21 min, 41 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>12 min, 30 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>15 min, 34 min, 54 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>6 min, 26 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>6 min, 21 min, 41 min</estimate>
+</eta>
+</station>
+<station>
+<name>Ashby</name>
+<abbr>ASHB</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>14 min, 33 min, 53 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>2 min, 22 min, 42 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>12 min, 23 min, 32 min</estimate>
+</eta>
+</station>
+<station>
+<name>Downtown Berkeley</name>
+<abbr>DBRK</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>11 min, 31 min, 51 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>Leaving, 20 min, 40 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>14 min, 25 min, 34 min</estimate>
+</eta>
+</station>
+<station>
+<name>North Berkeley</name>
+<abbr>NBRK</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>8 min, 28 min, 48 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>17 min, 37 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>17 min, 28 min, 37 min</estimate>
+</eta>
+</station>
+<station>
+<name>El Cerrito Plaza</name>
+<abbr>PLZA</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>5 min, 25 min, 45 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>14 min, 34 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>3 min, 20 min, 31 min</estimate>
+</eta>
+</station>
+<station>
+<name>El Cerrito del Norte</name>
+<abbr>DELN</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>2 min, 22 min, 42 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>11 min, 31 min</estimate>
+</eta>
+<eta>
+<destination>Richmond</destination>
+<estimate>6 min, 23 min, 34 min</estimate>
+</eta>
+</station>
+<station>
+<name>Richmond</name>
+<abbr>RICH</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Daly City</destination>
+<estimate>16 min, 36 min</estimate>
+</eta>
+<eta>
+<destination>Fremont</destination>
+<estimate>5 min, 25 min</estimate>
+</eta>
+</station>
+<station>
+<name>Colma</name>
+<abbr>COLM</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>12 min, 31 min, 51 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>10 min, 25 min, 45 min</estimate>
+</eta>
+</station>
+<station>
+<name>South San Francisco</name>
+<abbr>SSAN</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>8 min, 27 min, 47 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>13 min, 28 min, 48 min</estimate>
+</eta>
+</station>
+<station>
+<name>San Bruno</name>
+<abbr>SBRN</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>4 min, 24 min, 44 min</estimate>
+</eta>
+<eta>
+<destination>SFO/Millbrae</destination>
+<estimate>17 min, 32 min, 52 min</estimate>
+</eta>
+</station>
+<station>
+<name>Millbrae</name>
+<abbr>MLBR</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>1 min, 13 min, 33 min</estimate>
+</eta>
+</station>
+<station>
+<name>San Francisco Int'l Airport</name>
+<abbr>SFIA</abbr>
+<date>05/18/2013</date>
+<time>10:09:18 AM PDT</time>
+<eta>
+<destination>Millbrae</destination>
+<estimate>21 min, 37 min</estimate>
+</eta>
+<eta>
+<destination>Pittsburg/Bay Point</destination>
+<estimate>Leaving, 19 min, 39 min</estimate>
+</eta>
+</station>
+</root>
