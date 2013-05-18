@@ -12,8 +12,8 @@
       </urls>
       <paging model="offset">
         <start id="start" default="0" />
-        <pagesize id="rsz" max="6" />
-        <total default="6" />
+        <pagesize id="rsz" max="10" />
+        <total default="10" />
       </paging>
       <inputs>
         <key id='q' type='xs:string' paramType='query' />
